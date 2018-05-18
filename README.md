@@ -7,14 +7,14 @@ Utilizou-se ainda o padrao de projeto DAO(Data Access Object) para a comunica√ß√
 A Estrutura do projeto ficou separada em pacotes e classes como seguem: 
 
   1 - alan.oliveira.bd 
-        Generate.java
-        GeraBD.java
-        tb_customer_account.java
+        #Generate.java
+        #GeraBD.java
+        #tb_customer_account.java
         
   2- alan.oliveira.dao
-        AbstractDao.java
-        tb_customer_account_dao.java
+        #AbstractDao.java
+        #tb_customer_account_dao.java
   
   3- alan.oliveira.main
-        Consultas.java
+        #Consultas.java
 
