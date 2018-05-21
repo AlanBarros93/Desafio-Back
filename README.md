@@ -2,7 +2,7 @@
 
 O Programar foi Criado utilizando a linguagem JAVA, framework Hibernate para fazer a ligação de java com o banco de dados MySQL, fazendo com que o  dados fossem persistidos no banco em forma de um objeto. 
 
-Utilizou-se ainda o padrao de projeto DAO(Data Access Object) para a comunicação com o Banco de dados.
+Utilizou-se ainda o padrao de projeto DAO(Data Access Object) para a comunicação com o Banco de dados e ainda o conceito de classes genéricas.
 
 A Estrutura do projeto ficou separada em pacotes e classes como seguem: 
 
